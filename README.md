@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning JavaScript & working with github!
 
-- 💬 Ask me about: Anything at all :)
+- 💬 Ask me: Anything at all :)
 
-- 📫 How to reach me: quentinmccormick13@gmail.com
+- 📫 You can reach me at: quentinmccormick13@gmail.com
 
 - 😄 Pronouns: he/him
