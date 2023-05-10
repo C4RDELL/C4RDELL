@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on becoming a software developer, learning JavaScript & working with github!
+- 🔭 I’m currently working on becoming a software developer, learning JavaScript & .NET framework!
 
 - 💬 Ask me: Anything at all :)
 
